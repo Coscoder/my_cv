@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+}
+
+.header {
+  color: white;
+}
+
+#header-name {
+  border: dashed grey 1px;
+}
